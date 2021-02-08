@@ -1,4 +1,4 @@
-I am Black Frog, founder of [Black Frog Studios](https://github.com/Black-Frog-Studios). 
+I am Black Frog, founder of [Black Frog Studios](https://github.com/Black-Frog-Studios). We primarily make games but also work on things such as game assets and sometimes produce software, some of which are open source. You can check out our games [here](https://black-frog-studios.itch.io/) and our softwares [here](https://github.com/Black-Frog-Studios).
 
 
 <!--
